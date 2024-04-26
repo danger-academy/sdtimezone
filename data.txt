@@ -1,0 +1,40 @@
+{
+    "members": [
+        {
+            "name": "Robert",
+            "location": "Ohio, USA",
+            "timezone": "America/New_York"
+        },
+{
+            "name": "Chris",
+            "location": "Ohio, USA",
+            "timezone": "America/New_York"
+        },
+{
+            "name": "Isaiah",
+            "location": "Ohio, USA",
+            "timezone": "America/New_York"
+        },
+{
+            "name": "Juan",
+            "location": "Lima, Peru",
+            "timezone": "America/Lima"
+        },
+	{
+            "name": "Tayo",
+            "location": "Illinois, US",
+            "timezone": "America/Chicago"
+        },
+        {
+            "name": "Jake",
+            "location": "Illinois, US",
+            "timezone": "America/Chicago"
+        },
+        {
+            "name": "Esteban",
+            "location": "San José, Costa Rica",
+            "timezone": "America/Costa_Rica"
+        }
+        // Add other members here
+    ]
+}
